@@ -9,7 +9,7 @@
     />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>MINI BANK | Admin</title>
+    <title>Online Exam | Admin</title>
     <!-- Bootstrap core CSS-->
     <link href="{{ asset ('vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet" />
     <!-- Custom fonts for this template-->
